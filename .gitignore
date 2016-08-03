@@ -1,0 +1,9 @@
+# File system ignores
+.DS_Store
+
+# Node project ignores
+node_modules/
+
+# Project ignores
+dist/
+tmp/
